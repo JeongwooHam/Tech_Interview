@@ -9,9 +9,10 @@
 |[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/HTML)|[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/CSS)|[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/JavaScript)|[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/React)|
 |**TypeScript**|**Next.js**|**Library**|**CS**|
 |[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/TypeScript)|[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/Next.js)|[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/Library)|[바로가기](https://github.com/JeongwooHam/Tech_Interview/labels/CS)|
+
+취업을 준비할 때 정리했던 면접 답변들을 저장해두는 공간입니다.
   
 </div>
-
 
 <details>
 <summary><h3>🔎 References</h3></summary>
